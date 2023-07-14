@@ -181,6 +181,8 @@ new Vue({
     },
 
     playSong(id) {
+      this.transitionName = "scale-out";
+      this.isShowCover = false;
       this.currentTrackIndex = id;
       this.currentTrack = this.tracks[this.currentTrackIndex];
       this.resetPlayer();
