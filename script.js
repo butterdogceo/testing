@@ -178,8 +178,15 @@ new Vue({
       this.tracks[this.currentTrackIndex].favorited = !this.tracks[
         this.currentTrackIndex
       ].favorited;
-    }
+    },
+
+    playSong(id) {
+      this.currentTrackIndex = id;
+      this.currentTrack = this.tracks[this.currentTrackIndex];
+      this.resetPlayer();
+    },
   },
+
   created() {
     let vm = this;
     this.currentTrack = this.tracks[0];
