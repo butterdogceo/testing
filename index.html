@@ -16,7 +16,7 @@
     <link rel="icon" href="https://butterdogco.github.io/img/butterfiy.png" type="image/png">
   </head>
   <body>
-    <div class="loading">
+    <div class="loading" id="loading">
       <img src="https://butterdogco.github.io/img/butterfiy.png">
     </div>
     <div class="wrapper" id="app">
@@ -81,7 +81,7 @@
       <script>
         // Function to hide the div after 3 seconds
         function hideDiv() {
-            myDiv.style.display = "none";
+            document.getElementById("loading").style.display = "none";
         }
 
         // Set a timeout for 3 seconds
