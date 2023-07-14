@@ -101,11 +101,13 @@ body {
 
 @media only screen and (max-device-width: 640px) {
   .songItem p {
-    color: rgb(210,210,210);
-    display: inline-flex;
     position: relative;
+    top: none;
+    left: none;
+    transform: none;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
   }
 }
 
