@@ -19,7 +19,7 @@ new Vue({
         {
           name: "Devil Eyes",
           artist: "ZODIVK",
-          cover: "covers/Devi_Eyes.jpeg",
+          cover: "covers/Devil_Eyes.jpeg",
           source: "mp3/Devil Eyes.mp3",
           favorited: false
         },
@@ -39,16 +39,23 @@ new Vue({
         },
         {
           name: "After Dark",
-          artist: "Mr Kitty ",
-          cover: "covers/afterdarck.png",
+          artist: "Mr. Kitty ",
+          cover: "covers/afterdark.png",
           source: "mp3/Mr_Kitty_After_Dark.mp3",
           favorited: false
         },
         {
           name: "Little Dark Age",
           artist: "MGMT",
-          cover: "covers/little_darck.jpg",
+          cover: "covers/little_dark.jpg",
           source: "mp3/MGMT_Little_Dark_Age.mp3",
+          favorited: false
+        },
+        {
+          name: "Spider-Man 2099 (Miguel O_'Hara)",
+          artist: "Daniel Pemberton",
+          cover: "covers/across the spiderverse.jpg",
+          source: "mp3/Spider-Man 2099 (Miguel O_'Hara).mp3",
           favorited: false
         },
       ],
