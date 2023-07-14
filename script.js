@@ -58,6 +58,27 @@ new Vue({
           source: "mp3/Spider-Man 2099 (Miguel O_'Hara).mp3",
           favorited: false
         },
+        {
+          name: "Mystic Tunnel",
+          artist: "DJ Faded",
+          cover: "covers/dj_faded.jpg",
+          source: "mp3/Mystic Tunnel - DJ Faded.mp3",
+          favorited: false
+        },
+        {
+          name: "Let Here Go",
+          artist: "Passenger",
+          cover: "covers/let_her_go.jpg",
+          source: "mp3/Passenger - Let Her Go.mp3",
+          favorited: false
+        },
+        {
+          name: "Never Gonna Give You Up",
+          artist: "Rick Astley",
+          cover: "covers/NGGYU.png",
+          source: "mp3/Never Gonna Give You Up.mp3",
+          favorited: false
+        },
       ],
       currentTrack: null,
       currentTrackIndex: 0,

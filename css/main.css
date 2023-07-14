@@ -93,9 +93,9 @@ body {
 .songItem p {
   color: rgb(210,210,210);
   display: inline-flex;
-  top: 35%;
+  top: 50%;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translate(-50%,-50%);
   position: fixed;
 }
 
