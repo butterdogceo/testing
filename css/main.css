@@ -99,6 +99,16 @@ body {
   position: fixed;
 }
 
+@media only screen and (max-device-width: 640px) {
+  .songItem p {
+    color: rgb(210,210,210);
+    display: inline-flex;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 .songItem button {
   background: none;
   float: right;
