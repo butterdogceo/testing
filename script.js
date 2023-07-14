@@ -54,7 +54,7 @@ new Vue({
         {
           name: "Spider-Man 2099 (Miguel O_'Hara)",
           artist: "Daniel Pemberton",
-          cover: "covers/across the spiderverse.jpg",
+          cover: "covers/across_the_spiderverse.jpg",
           source: "mp3/Spider-Man 2099 (Miguel O_'Hara).mp3",
           favorited: false
         },
