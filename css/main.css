@@ -38,6 +38,26 @@ body {
   box-sizing: border-box;
 }
 
+.nav {
+  background: none;
+  width: 100vw;
+  height: 10vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.nav img {
+  width: 8vh;
+  display: inline-flex;
+}
+
+.nav h2 {
+  font-size: 3vh;
+  display: inline-flex;
+  color: white;
+}
+
 .icon {
   display: inline-block;
   width: 1em;
