@@ -73,7 +73,7 @@ new Vue({
           favorited: false
         },
         {
-          name: "I'm about to cuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu",
+          name: "I'm about to cuuuuuu",
           artist: "some guy",
           cover: "covers/about to cuuuuuuuuuuuuuuu.png",
           source: "mp3/im about to cuuuuuuuuu.mp3",
