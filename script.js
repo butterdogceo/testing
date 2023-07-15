@@ -73,6 +73,13 @@ new Vue({
           favorited: false
         },
         {
+          name: "I'm about to cuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu",
+          artist: "some guy",
+          cover: "covers/about to cuuuuuuuuuuuuuuu.png",
+          source: "mp3/im about to cuuuuuuuuu.mp3",
+          favorited: false
+        },
+        {
           name: "Never Gonna Give You Up",
           artist: "Rick Astley",
           cover: "covers/NGGYU.png",
