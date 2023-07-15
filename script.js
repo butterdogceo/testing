@@ -66,7 +66,7 @@ new Vue({
           favorited: false
         },
         {
-          name: "Let Here Go",
+          name: "Let Her Go",
           artist: "Passenger",
           cover: "covers/let_her_go.jpg",
           source: "mp3/Passenger - Let Her Go.mp3",
