@@ -1,0 +1,2 @@
+# What's Butterfy?
+Butterfy is a new and free music streaming service made by ButterDogCo. The original version was made using Google Sites. We have now upgraded and moved over to our own custom-built website.
